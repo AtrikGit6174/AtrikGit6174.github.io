@@ -1,3 +1,9 @@
+<p align= "center">
+		<a href="https://github.com/atrikgit6174">
+			<img src= "https://github.com/atrikgit6174.png" width= 200px height= 200px align="center">
+		</a>
+</p>
+
 ### Hello World! 👋
 
 - ⭐ Tech Risk Engineering Intern from June 2022 - July 2022 @ Goldman Sachs. Check out my interview experience @ [Blog 4 on Medium](https://atrikray7171.medium.com/blog-4-goldman-sachs-echp-2022-interview-experience-538c5263f66e)
@@ -5,7 +11,7 @@
 - 🔭 Solving [Cryptopals Cryptochallenges](https://cryptopals.com/)
 - :wave: I’m looking to collaborate on Cybersecurity tools, C++ and Python projects
 - 🌱 I have completed the [NYU Introduction to CyberSecurity Specialisation](https://www.coursera.org/specializations/intro-cyber-security) and the [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
-- 🔭 I’m a beginner in working with Unity Editor. Do check out my [LEGO tutorial guided game](https://play.unity.com/mg/lego/webgl-builds-33587). Looking forward to your views and suggestions!
+- 🔭 I’m a beginner in working with Unity Editor. Do check out my [LEGO tutorial guided game - LEGO Islands Minigame](https://play.unity.com/mg/lego/webgl-builds-33587). Looking forward to your views and suggestions!
 - ⚡ Fun fact: I call myself a Random Rhymer. Indian History & Mythology enthusiasts, count me in!
 <!-- 🌱 I have completed Machine Learning with the Stanford University Course on Coursera and joined Kaggle.-->
 
@@ -58,6 +64,15 @@
 
 ![](https://komarev.com/ghpvc/?username=AtrikGit6174)
 
+<h3 align= "left">Projects:</h3>
+  <ul>
+  <li> <a href="https://atrikgit6174.github.io/PWD-Generator/" target="_blank">PWD-Generator</a></li>
+  <li> <a href="https://github.com/gayathri-ms/guest-room-management" target="_blank">guest-room-management</a></li>
+  <li> <a href="https://atrikgit6174.github.io/Diabetes-Tracker" target="_blank">Diabetes-Tracker</a></li>
+  <li> <a href="https://github.com/AtrikGit6174/Order-Hamburger" target="_blank">Order-Hamburger</a></li>
+  <li> <a href="https://play.unity.com/mg/lego/webgl-builds-33587" target="_blank">LEGO Islands Minigame</a></li>
+  </ul>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
